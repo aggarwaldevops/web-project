@@ -1,4 +1,5 @@
 Product Text file
+<<<<<<< HEAD
 
 DFBBDBDBDFB
 
@@ -8,3 +9,6 @@ Plaid meh raw denim vexillologist biodiesel beard. Letterpress poke kale chips, 
 
 
 Add some other points for the product as well
+=======
+Added new update now
+>>>>>>> feda36ba4d6669a19f4d2f56e3fc3f0cbaa0f11f
